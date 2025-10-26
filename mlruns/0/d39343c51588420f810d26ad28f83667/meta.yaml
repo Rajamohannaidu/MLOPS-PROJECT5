@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/AIML/MLOPS/MLOPS-PROJECT5/mlruns/0/d39343c51588420f810d26ad28f83667/artifacts
+end_time: 1761486485513
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d39343c51588420f810d26ad28f83667
+run_name: enchanting-ox-303
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761486474112
+status: 3
+tags: []
+user_id: mohan
